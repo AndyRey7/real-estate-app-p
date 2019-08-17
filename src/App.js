@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        
+
         <p>
           whatever it works!!!!!!!!!!!
         </p>
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React I did
         </a>
       </header>
     </div>
