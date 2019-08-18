@@ -6,9 +6,6 @@ function App() {
   return (
     <div>
         <Header/>
-        <p className="test">
-          whatever it works!!!!!!!!!!!
-        </p>
     </div>
   );
 }
